@@ -9,3 +9,5 @@ future
 pydot
 pydotplus
 graphviz
+tqdm
+statsmodel
