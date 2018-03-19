@@ -10,3 +10,4 @@ pydot
 pydotplus
 graphviz
 tqdm
+statsmodels
