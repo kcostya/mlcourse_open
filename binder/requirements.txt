@@ -9,3 +9,4 @@ future
 pydot
 pydotplus
 graphviz
+tqdm
