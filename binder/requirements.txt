@@ -11,3 +11,4 @@ pydotplus
 graphviz
 tqdm
 statsmodels
+keras
