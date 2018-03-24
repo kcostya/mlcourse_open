@@ -13,3 +13,4 @@ tqdm
 statsmodels
 keras
 tensorflow
+h5py
