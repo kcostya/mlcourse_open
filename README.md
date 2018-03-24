@@ -8,6 +8,7 @@
 
 ### Outline
 <<<<<<< HEAD
+<<<<<<< HEAD
 These are the topics of Medium articles to appear from Feb 5 to Apr 7, 2018 (every Monday). The articles (Medium "stories" in a ["Publication"](https://medium.com/open-machine-learning-course)) are in English :uk:. The Kaggle [kernel](https://www.kaggle.com/kashnitsky/vowpal-wabbit-tutorial-blazingly-fast-learning) "Vowpal Wabbit tutorial: blazingly fast learning" can serve as a demonstration of our materials. 
 All articles in Russian are already published and are given here with :ru: icons (clickable). If you don't read Russian, still math, code and figures can give you an idea of what's going on. But all these articles are already translated into English and will be published on Medium from Feb 5 to Apr 7, 2018 :pencil:
 <<<<<<< HEAD
@@ -16,10 +17,15 @@ Icons :uk: and :ru: are clickable.
 >>>>>>> 545380f33997f640964c8fc307efc2e305b78fc4
 1. Exploratory Data Analysis with Pandas [:uk:](https://medium.com/open-machine-learning-course/open-machine-learning-course-topic-1-exploratory-data-analysis-with-pandas-de57880f1a68)  [:ru:](https://habrahabr.ru/company/ods/blog/322626/)
 2. Visual Data Analysis with Python [:uk:](https://medium.com/open-machine-learning-course/open-machine-learning-course-topic-2-visual-data-analysis-in-python-846b989675cd)  [:ru:](https://habrahabr.ru/company/ods/blog/323210/)
+=======
+Icons :uk: :ru: and :cn: are clickable.
+1. Exploratory Data Analysis with Pandas [:uk:](https://medium.com/open-machine-learning-course/open-machine-learning-course-topic-1-exploratory-data-analysis-with-pandas-de57880f1a68)  [:ru:](https://habrahabr.ru/company/ods/blog/322626/) [:cn:](https://www.jqr.com/article/000079)
+2. Visual Data Analysis with Python [:uk:](https://medium.com/open-machine-learning-course/open-machine-learning-course-topic-2-visual-data-analysis-in-python-846b989675cd)  [:ru:](https://habrahabr.ru/company/ods/blog/323210/) [:cn:](https://www.jqr.com/article/000086)
+>>>>>>> 31196f5cce7ee1e78b77ee265d269ac046ed1c54
 3. Classification, Decision Trees and k Nearest Neighbors [:uk:](https://medium.com/open-machine-learning-course/open-machine-learning-course-topic-3-classification-decision-trees-and-k-nearest-neighbors-8613c6b6d2cd) [:ru:](https://habrahabr.ru/company/ods/blog/322534/)
 4. Linear Classification and Regression [:uk:](https://medium.com/open-machine-learning-course/open-machine-learning-course-topic-4-linear-classification-and-regression-44a41b9b5220) [:ru:](https://habrahabr.ru/company/ods/blog/323890/)
 5. Bagging and Random Forest [:uk:](https://medium.com/open-machine-learning-course/open-machine-learning-course-topic-5-ensembles-of-algorithms-and-random-forest-8e05246cbba7) [:ru:](https://habrahabr.ru/company/ods/blog/324402/)
-6. Feature Engineering and Feature Selection [:ru:](https://habrahabr.ru/company/ods/blog/325422/)
+6. Feature Engineering and Feature Selection [:uk:](https://medium.com/open-machine-learning-course/open-machine-learning-course-topic-6-feature-engineering-and-feature-selection-8b94f870706a) [:ru:](https://habrahabr.ru/company/ods/blog/325422/)
 7. Unsupervised Learning: Principal Component Analysis and Clustering [:ru:](https://habrahabr.ru/company/ods/blog/325654/)
 8. Vowpal Wabbit: Learning with Gigabytes of Data [:uk:](https://www.kaggle.com/kashnitsky/vowpal-wabbit-tutorial-blazingly-fast-learning) [:ru:](https://habrahabr.ru/company/ods/blog/326418/)  
 9. Time Series Analysis with Python [:ru:](https://habrahabr.ru/company/ods/blog/327242/)
@@ -43,7 +49,7 @@ Icons :uk: and :ru: are clickable.
 3. "Decision trees with a toy task and the UCI Adult dataset", [nbviewer](http://nbviewer.jupyter.org/github/Yorko/mlcourse_open/blob/master/jupyter_english/topic03_decision_trees_kNN/assignment3_decision_trees.ipynb). Deadline: Feb. 25, 23.59 CET
 4. "User Identification with Logistic Regression", [nbviewer](http://nbviewer.jupyter.org/github/Yorko/mlcourse_open/blob/master/jupyter_english/topic04_linear_models/assignment4_websites_logistic_regression.ipynb?flush_cache=true). Deadline: March 11, 23.59 CET
 5. "Logistic Regression and Random Forest in the Credit Scoring Problem", [nbviewer](http://nbviewer.jupyter.org/github/Yorko/mlcourse_open/blob/master/jupyter_english/topic05_ensembles_random_forests/assignment5_logit_rf_credit_scoring.ipynb?flush_cache=true). Deadline: March 18, 23.59 CET
-6. Beating benchmarks in two Kaggle Inclass competitons. Part 1, "Alice", [nbviewer](http://nbviewer.jupyter.org/github/Yorko/mlcourse_open/blob/master/jupyter_english/topic06_features/assignment6_part1_alice_beat_baseline.ipynb). Part 2, "Medium", [nbviewer](http://nbviewer.jupyter.org/github/Yorko/mlcourse_open/blob/master/jupyter_english/topic06_features/assignment6_part2_medium_beat_baseline.ipynb). Deadline: March 25, 23.59 CET
+6. Beating benchmarks in two Kaggle Inclass competitons. Part 1, "Alice", [nbviewer](http://nbviewer.jupyter.org/github/Yorko/mlcourse_open/blob/master/jupyter_english/topic06_features/assignment6_part1_alice_beat_baseline.ipynb). Part 2, "Medium", [nbviewer](http://nbviewer.jupyter.org/github/Yorko/mlcourse_open/blob/master/jupyter_english/topic06_features/assignment6_part2_medium_beat_baseline.ipynb). Deadline: April 1, 23.59 CET
 
 ### Kaggle competitions
 1. Catch Me If You Can: Intruder Detection through Webpage Session Tracking. [Kaggle Inclass](https://www.kaggle.com/c/catch-me-if-you-can-intruder-detection-through-webpage-session-tracking2)
