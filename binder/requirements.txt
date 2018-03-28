@@ -9,3 +9,8 @@ future
 pydot
 pydotplus
 graphviz
+tqdm
+statsmodels
+keras
+tensorflow
+h5py
